@@ -1,0 +1,43 @@
+* {
+  font-family: "Times New Roman", Times, serif;
+  background-color: azure;
+  width: 800px;
+}
+
+body {
+  margin: 30px;
+}
+
+.index-list-container {
+  font-size: 20px;
+  font-weight: 700;
+  color: rgb(32, 23, 213);
+}
+
+ul li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+  border-bottom: 1px dotted black;
+  width: fit-content;
+  text-decoration: none;
+}
+
+h2 {
+  font-style: italic;
+  font-size: 32px;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 60px;
+}
+
+ol li {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 0;
+  margin-right: 0;
+  width: fit-content;
+  text-decoration: none;
